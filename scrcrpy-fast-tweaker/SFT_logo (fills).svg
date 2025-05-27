@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="56.937759mm"
+   height="57.940521mm"
+   viewBox="0 0 56.937759 57.940521"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="SFT_logo (fills).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title9">Scrcpy-Fast-Tweaker</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8756734"
+     inkscape:cx="70.418289"
+     inkscape:cy="96.846881"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="6.520446"
+       originy="-0.014633"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="5"
+       steps="1"
+       smooth_angles="360"
+       helper_size="10"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="14.997211,26.820167"
+       origin="-4.2323419,26.820167"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       method="normal"
+       num_copies="3"
+       starting_angle="0"
+       rotation_angle="120"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="sketch"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nbiter_approxstrokes="5"
+       parallel_offset="5;1"
+       strokelength="100"
+       strokelength_rdm="0.3;1"
+       strokeoverlap="0.3"
+       strokeoverlap_rdm="0.3;1"
+       ends_tolerance="0.1;1"
+       tremble_size="5;1"
+       tremble_frequency="1"
+       nbtangents="5"
+       tgt_places_rdmness="1;1"
+       tgtlength="100"
+       tgtlength_rdm="0.3;1"
+       tgtscale="10" />
+    <inkscape:path-effect
+       effect="interpolate_points"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       interpolator_type="CentripetalCatmullRom" />
+    <inkscape:path-effect
+       effect="interpolate"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       trajectory="M 0,0 V 0"
+       equidistant_spacing="true"
+       steps="5" />
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#127366;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#051b17;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#25e6cd;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#0c5163;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="30.822491"
+       y1="26.866171"
+       x2="30.822491"
+       y2="52.536247"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92155215,0,0,1.0014068,-8.4429851,-4.5529296)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="19.961546"
+       y1="16.049612"
+       x2="19.961546"
+       y2="48.930294"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,0.00813239)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.520446,-0.014633)">
+    <path
+       style="fill:#b2f7ed;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.53543"
+       d="M 20.970703,24.533203 C 15.056325,24.920274 10.22201,26.01234 6.4023437,27.304687 -1.2369889,29.889382 -4.9042969,33.357422 -4.9042969,33.357422 a 1.1187299,1.1187299 0 0 0 -0.037109,1.582031 1.1187299,1.1187299 0 0 0 1.5820312,0.03516 c 0,0 3.19894766,-3.087809 10.4785156,-5.550781 C 14.398709,26.960856 25.671299,25.202374 41.605469,28.1875 a 1.1187299,1.1187299 0 0 0 1.30664,-0.892578 1.1187299,1.1187299 0 0 0 -0.894531,-1.306641 C 33.878073,24.463417 26.885081,24.146133 20.970703,24.533203 Z"
+       id="path5-5" />
+    <g
+       id="rect1">
+      <path
+         style="fill:url(#linearGradient2);stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.53543"
+         d="M 5.2990981,0.97528303 H 34.623996 c 2.39906,0 4.330433,1.93137307 4.330433,4.33043287 V 52.664072 c 0,2.39906 -1.931373,4.330433 -4.330433,4.330433 H 5.2990981 c -2.3990598,0 -4.33043286,-1.931373 -4.33043286,-4.330433 V 5.3057159 c 0,-2.3990598 1.93137306,-4.33043287 4.33043286,-4.33043287 z"
+         id="path1" />
+      <path
+         style="fill:url(#linearGradient5);stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.53543"
+         d="m 5.2988281,0.01367188 c -2.9146433,0 -5.2910156,2.37832542 -5.2910156,5.29296872 V 52.664062 c 0,2.914644 2.3763723,5.291016 5.2910156,5.291016 H 34.623047 c 2.914643,0 5.292969,-2.376372 5.292969,-5.291016 V 5.3066406 c 0,-2.9146433 -2.378326,-5.29296873 -5.292969,-5.29296872 z m 0,1.92187502 H 34.623047 c 1.883476,0 3.371094,1.4876174 3.371094,3.3710937 V 52.664062 c 0,1.883477 -1.487618,3.369141 -3.371094,3.369141 H 5.2988281 c -1.8834763,0 -3.3691406,-1.485664 -3.3691406,-3.369141 V 5.3066406 c 0,-1.8834763 1.4856643,-3.3710937 3.3691406,-3.3710937 z"
+         id="path3" />
+    </g>
+    <circle
+       style="fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:1.39877;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:4.53543;stroke-opacity:1"
+       id="path2"
+       cx="19.983004"
+       cy="5.6220117"
+       r="2.6222119" />
+    <path
+       style="fill:#b2f7ed;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.53543"
+       d="M -5.3105469,17.423828 A 1,1 0 0 0 -6.0625,17.560547 1,1 0 0 0 -6.3613281,18.943359 c 0,0 2.4652623,3.779425 8.5664062,7.619141 6.1011439,3.839716 15.8978079,7.826373 30.6835939,8.570312 A 1,1 0 0 0 33.9375,34.185547 1,1 0 0 0 32.988281,33.136719 C 18.515705,32.408538 9.0833497,28.52803 3.2695313,24.869141 -2.5442872,21.210251 -4.6796875,17.859375 -4.6796875,17.859375 a 1,1 0 0 0 -0.6308594,-0.435547 z"
+       id="path5" />
+    <path
+       style="fill:#b2f7ed;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.53543"
+       d="m 49.640625,33.90625 a 1,1 0 0 0 -0.753906,0.126953 C 36.604765,41.723412 26.650509,43.945972 19.789062,44.275391 12.927616,44.604809 9.2578125,43.080078 9.2578125,43.080078 A 1,1 0 0 0 7.953125,43.626953 1,1 0 0 0 8.5,44.931641 c 0,0 4.184219,1.685542 11.384766,1.339843 7.200546,-0.345698 17.514745,-2.686331 30.0625,-10.542968 a 1,1 0 0 0 0.318359,-1.376954 1,1 0 0 0 -0.625,-0.445312 z"
+       id="path5-8" />
+  </g>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Scrcpy-Fast-Tweaker</dc:title>
+        <dc:date>27/05/2025</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>STCGbluewave</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>A phone with motion lines, representing fast and being right to it!</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Bluewave (or simonthecomputerguru), Copilot (for ideas)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
