@@ -8,7 +8,7 @@ scrcpy_cmd = "scrcpy"
 
 print("Welcome to scrcpy-fast-tweaker!")
 # Ask user if they want to change aspect ratio
-aspect_ratio = input("What do you want the aspect ratio to be? (1080p) Options: '16:9' (default), '4:3', 'Keep' ").strip().lower()
+aspect_ratio = input("What do you want the aspect ratio to be? (1080p) Options: '16:9' (default), '4:3', 'Keep' ").strip().lower() or "16:9"
 
 if aspect_ratio == "16:9":
     os.system("adb shell wm size 1080x1920")
@@ -38,6 +38,11 @@ recording = input("Do you want to record gameplay? Yes or No? ").strip().lower()
 if recording == "yes":
     filename = input("Enter filename (default: session): ").strip() or "session"
     scrcpy_cmd += f" -r {filename}.mp4"
+    
+# Ask user to turn off the screen
+screen_off = input("Turn device screen off? Yes or No? (default: yes (recommended)) ").strip().lower() or "yes"
+if screen_off == "yes":
+    scrcpy_cmd += " --turn-screen-off"
 
 # Run Scrcpy inside the same terminal with keyboard & mouse support
 subprocess.run(f"{scrcpy_cmd} --keyboard uhid --mouse uhid".split())
