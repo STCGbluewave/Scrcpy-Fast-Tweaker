@@ -1,5 +1,5 @@
 # Scrcpy-Fast-Tweaker
-Made for scrcpy, just put the .spec & .exe or .py in your scrcpy folder and you're good to go!
+Made for scrcpy, just put the .exe or .py in your scrcpy folder and you're good to go!
 
 Get scrcpy: https://github.com/Genymobile/scrcpy
 
