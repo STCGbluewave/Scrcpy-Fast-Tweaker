@@ -40,7 +40,7 @@ if recording == "yes":
     scrcpy_cmd += f" -r {filename}.mp4"
     
 # Ask user to turn off the screen
-screen_off = input("Turn device screen off? Yes or No? (default: yes (recommended)) ").strip().lower() or "yes"
+screen_off = input("Turn phone screen off? Yes or No? (default: yes) ").strip().lower() or "yes"
 if screen_off == "yes":
     scrcpy_cmd += " --turn-screen-off"
 
