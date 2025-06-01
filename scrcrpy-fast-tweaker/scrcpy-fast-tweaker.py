@@ -21,7 +21,7 @@ else:
 
 
 # User input for fullscreen mode
-fullscreen = input("Should it be Fullscreen? Yes or No? ").strip().lower()
+fullscreen = input("Should it be Fullscreen? Yes or No? (default: yes): ").strip().lower() or "yes"
 if fullscreen == "yes":
     scrcpy_cmd += " -f"
 
@@ -34,13 +34,13 @@ bitrate = input("Enter video bitrate (default: 8M): ").strip() or "8M"
 scrcpy_cmd += f" --video-bit-rate={bitrate}"
 
 # User input for recording
-recording = input("Do you want to record gameplay? Yes or No? ").strip().lower()
+recording = input("Do you want to record gameplay? Yes or No? (default: no): ").strip().lower()
 if recording == "yes":
     filename = input("Enter filename (default: session): ").strip() or "session"
     scrcpy_cmd += f" -r {filename}.mp4"
     
 # Ask user to turn off the screen
-screen_off = input("Turn phone screen off? Yes or No? (default: yes) ").strip().lower() or "yes"
+screen_off = input("Turn device screen off? Yes or No? (default: yes): ").strip().lower() or "yes"
 if screen_off == "yes":
     scrcpy_cmd += " --turn-screen-off"
 
